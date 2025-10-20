@@ -39,7 +39,7 @@ Represents interactive components such as buttons, forms, search bars, or slider
 
 Each of these elements contributes to building a user-centered interface, ensuring that the design is intuitive, goal-oriented, and ready for visual refinement.
 
-## Types of wireframe
+## Types of wireframes
 
 ### Low-Fidelity vs High-Fidelity Wireframes
 
